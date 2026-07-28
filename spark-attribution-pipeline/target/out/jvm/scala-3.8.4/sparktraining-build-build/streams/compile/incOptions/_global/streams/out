@@ -1,0 +1,5 @@
+[debug] Created transactional ClassFileManager with tempDir = /Users/cedricsheridanpare/Desktop/sparktraining/target/out/jvm/scala-3.8.4/sparktraining-build-build/classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = /Users/cedricsheridanpare/Desktop/sparktraining/target/out/jvm/scala-3.8.4/sparktraining-build-build/classes.bak
+[debug] Removing the temporary directory used for backing up class files: /Users/cedricsheridanpare/Desktop/sparktraining/target/out/jvm/scala-3.8.4/sparktraining-build-build/classes.bak

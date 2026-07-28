@@ -1,0 +1,59 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/cedricsheridanpare/Desktop/sparktraining/target/out/jvm/scala-2.13.16/spark-training/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignTransformer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignClean.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignRaw.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignTransformer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignClean$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignRaw$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignTransformer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignClean.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignRaw.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignTransformer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignClean$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignRaw$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignTransformer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AttributionPipelineJob$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignClean.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignRef.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AttributionCandidate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ClickEvent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignRaw.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignTransformer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SyntheticDataGenerator$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AttributedVisit$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AttributedVisit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AttributionPipelineJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AttributionPipelineJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SyntheticDataGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignClean$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignRef$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AttributionCandidate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AttributionTransformer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AttributionTransformer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StoreVisit$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AttributionPipelineJob$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SyntheticDataGenerator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SyntheticDataGenerator$$typecreator5$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ClickEvent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StoreVisit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SyntheticDataGenerator$$typecreator5$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MarketingPipelineJob$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CampaignRaw$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/cedricsheridanpare/Desktop/sparktraining/target/out/jvm/scala-2.13.16/spark-training/classes.bak[0m

@@ -1,0 +1,32 @@
+# Scala / sbt
+target/
+project/target/
+project/project/
+*.class
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# macOS
+.DS_Store
+
+# Données brutes (poids/licence Kaggle — ne pas committer le CSV lui-même)
+data/raw/*.csv
+!data/raw/.gitkeep
+
+# Sorties de pipeline
+data/processed/
+data/quarantine/
+*.parquet
+
+# Airflow (config locale, logs, base de données — spécifique à chaque machine)
+airflow-training/
+*.pid
+*.cfg
+
+# Environnements virtuels Python
+venv/
+*.egg-info/

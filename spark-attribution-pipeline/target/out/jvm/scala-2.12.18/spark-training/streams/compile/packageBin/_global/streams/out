@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/cedricsheridanpare/Desktop/sparktraining/target/out/jvm/scala-2.12.18/spark-training/spark-training_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	training/CampaignAttributionJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cedricsheridanpare/Desktop/sparktraining/target/out/jvm/scala-2.12.18/spark-training/classes/training/CampaignAttributionJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	training/CampaignAttributionJob$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cedricsheridanpare/Desktop/sparktraining/target/out/jvm/scala-2.12.18/spark-training/classes/training/CampaignAttributionJob$$typecreator11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	training/CampaignAttributionJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cedricsheridanpare/Desktop/sparktraining/target/out/jvm/scala-2.12.18/spark-training/classes/training/CampaignAttributionJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	training/CampaignAttributionJob$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cedricsheridanpare/Desktop/sparktraining/target/out/jvm/scala-2.12.18/spark-training/classes/training/CampaignAttributionJob$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	training/CampaignAttributionJob$$typecreator21$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/cedricsheridanpare/Desktop/sparktraining/target/out/jvm/scala-2.12.18/spark-training/classes/training/CampaignAttributionJob$$typecreator21$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-2.12.18/spark-training/spark-training_2.12-0.1.jar[0m

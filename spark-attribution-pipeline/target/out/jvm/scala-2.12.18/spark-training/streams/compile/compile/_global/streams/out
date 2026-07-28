@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/cedricsheridanpare/Desktop/sparktraining/src/main/scala/training/CampaignAttributionJob.scala:22:19: Invalid literal number[0m
+[0m[[0m[31merror[0m] [0m[0m    val numRows = 2_000_000[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/cedricsheridanpare/Desktop/sparktraining/src/main/scala/training/CampaignAttributionJob.scala:27:21: Invalid literal number[0m
+[0m[[0m[31merror[0m] [0m[0m      val clickTs = 1_700_000_000L + (i % 86400)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
