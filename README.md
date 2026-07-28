@@ -14,4 +14,4 @@ Pipeline Spark/Scala d'attribution marketing multi-sources (clics publicitaires 
 
 ---
 
-*Plus de projets à venir.*
+
