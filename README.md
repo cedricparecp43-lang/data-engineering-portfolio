@@ -6,7 +6,7 @@ Projets d'entraînement et de démonstration en ingénierie de données, centré
 
 ### [spark-attribution-pipeline](./spark-attribution-pipeline)
 Pipeline Spark/Scala d'attribution marketing multi-sources (clics publicitaires → visites en magasin → référentiel campagnes), orchestré avec Airflow. Démontre :
-- Architecture modulaire (`model` / `transform` / `data` / `jobs`) séparant logique pure et orchestration Spark
+- Architecture modulaire (`model` / `helper` / `data` / `jobs`) séparant logique pure et orchestration Spark
 - Gestion explicite du data skew et des stratégies de jointure (`BroadcastHashJoin` vs `SortMergeJoin`)
 - Fenêtre d'attribution temporelle avec gestion des événements en retard/désynchronisés
 - Lecture CSV avec schéma typé (`Dataset[T]`) plutôt que `DataFrame` non typé
